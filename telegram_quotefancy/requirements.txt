@@ -6,3 +6,4 @@ quotefancy==1.0
 
 # To Schedule Task
 schedule==1.1.0
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
